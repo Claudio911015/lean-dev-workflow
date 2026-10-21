@@ -47,7 +47,7 @@ Green tests → commit message that explains *why* → push. Deploy as the proje
 ## 7. Close
 
 - **Reply:** 1-2 lines on what was skipped or not verified, and the risk.
-- **Memory:** if your setup keeps session notes, decision logs or agent memory, record new decisions and gotchas before ending.
+- **Memory:** before ending the session, invoke the `session-memory` skill (or record decisions and gotchas wherever your setup keeps them).
 
 ## Common mistakes
 
